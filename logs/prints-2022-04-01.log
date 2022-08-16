@@ -1,0 +1,7 @@
+13:07:40.159 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+13:07:40.161 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+13:07:40.161 [main] DEBUG freemarker.cache - Loading template for "spark/partials/dashboard.ftl"("en_IN", UTF-8, parsed) from "jar:file:/C:/Users/Valanraja/.m2/repository/com/aventstack/extentreports/5.0.8/extentreports-5.0.8.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl"
+13:07:40.179 [main] DEBUG freemarker.cache - Couldn't find template in cache for "spark/partials/scripts.ftl"("en_IN", UTF-8, parsed); will try to load it.
+13:07:40.179 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_IN.ftl"): Not found
+13:07:40.180 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en.ftl"): Not found
+13:07:40.180 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts.ftl"): Found
